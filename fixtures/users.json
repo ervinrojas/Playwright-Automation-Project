@@ -1,0 +1,13 @@
+{
+  "standard_user": {
+    "username": "standard_user",
+    "password": "secret_password",
+    "firstName": "Juan",
+    "lastName": "Perez",
+    "zipCode": "12345"
+  },
+  "locked_out_user": {
+    "username": "locked_out_user",
+    "password": "secret_password"
+  }
+}
